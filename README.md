@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - Developed an IoT-based smart water monitoring system using ESP32, ultrasonic sensors, Firebase Realtime Database, and Blynk.
 - Implemented automatic pump control based on water level thresholds.
 - Enabled real-time cloud monitoring and remote visualization.
+
+---
+### 📡 Ultra-Low-Power 900 MHz IF LNA Design and Optimization
+
+[View Repository](https://github.com/anindyadefana/Ultra-Low-Power-900MHz-LNA-Design-and-Optimization)
+
+- Designed and optimized an ultra-low-power 900 MHz IF Low Noise Amplifier (LNA) for low-power RF receiver applications.
+- Applied bias optimization and inductive source degeneration techniques to improve gain, noise figure, stability, and linearity.
+- Simulated and evaluated RF performance using Keysight ADS through S-parameter, Noise Figure, and IIP3 analyses.
