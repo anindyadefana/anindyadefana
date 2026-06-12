@@ -77,6 +77,9 @@ Here are some ideas to get you started:
 ### 🇬🇧 English Proficiency Test (EPT) – LBI Universitas Indonesia
 - Achieved an EPT score of **507** in the English Proficiency Test administered by Lembaga Bahasa Internasional (LBI) Universitas Indonesia. 
 
+🏆 View Certifications:
+[Certificate and Achievements Repository](https://github.com/anindyadefana/Certificate-and-Achievements)
+
 ---
 ## 🤝 Let's Connect
 
