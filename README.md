@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 - Enabled real-time cloud monitoring and remote visualization.
 
 ---
+### 🌐 FTTH Alarm Monitoring and Network Analysis
+[View Repository](https://github.com/anindyadefana/FTTH-Network-Infrastructure-Analysis-and-Monitoring)
+- Analyzed FTTH network alarms and operational events using Nokia Altiplano Network Management System (NMS).
+- Investigated alarm trends, severity distributions, and network fault patterns to support troubleshooting activities.
+- Developed structured alarm analysis references and network monitoring documentation for operational support.
+
+---
 ### ⚡ Ultra-Low-Power 900 MHz IF LNA Design and Optimization
 
 [View Repository](https://github.com/anindyadefana/Ultra-Low-Power-900MHz-LNA-Design-and-Optimization)
