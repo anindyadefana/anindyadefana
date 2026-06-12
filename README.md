@@ -32,3 +32,22 @@ Here are some ideas to get you started:
 - Designed and simulated a dual-band 2×2 MIMO microstrip antenna operating at 3.5 GHz and 26 GHz for 5G applications.
 - Evaluated antenna performance through S-parameter, gain, directivity, VSWR, and ECC analysis.
 - Developed and optimized antenna models using CST Studio Suite, achieving directional radiation characteristics and gain up to 6.43 dBi at 26 GHz.
+
+---
+## 🛠️ Technical Toolkit
+
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| 📡 Telecommunications | Antenna Design, RF Systems, Wireless Communications, MIMO Systems, IoT Networks |
+| 💻 Programming | Python, C/C++, Arduino IDE, ESP32, MATLAB |
+| 🔬 Simulation & Design | CST Studio Suite, ADS (Advanced Design System), Fritzing |
+| 🌐 IoT & Embedded Systems | ESP32, Blynk, Firebase Realtime Database, Sensors Integration |
+| 📊 Data & Analytics | Microsoft Excel |
+| 🧰 Engineering Tools | Git, GitHub, Microsoft Office |
+
+---
+## 🤝 Let's Connect
+
+- 📧 Email: anindyaputri.defana@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/anindya-putri-defana
+- 🌐 GitHub: https://github.com/anindyadefana
