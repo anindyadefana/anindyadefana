@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ### 📜 Inclusive Leadership Skills (ILS) – Universitas Gadjah Mada
 - Successfully completed the Inclusive Leadership Skills course offered through UGM eLOK.
-- Learned leadership principles, teamwork, communication, and inclusive decision-making. :contentReference[oaicite:0]{index=0}
+- Learned leadership principles, teamwork, communication, and inclusive decision-making. 
 
 ### 🇬🇧 English Proficiency Test (EPT) – LBI Universitas Indonesia
 - Achieved an EPT score of **507** in the English Proficiency Test administered by Lembaga Bahasa Internasional (LBI) Universitas Indonesia. 
