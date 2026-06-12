@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 | 💻 Programming | Python, C/C++, Arduino IDE, ESP32, MATLAB |
 | 🔬 Simulation & Design | CST Studio Suite, ADS (Advanced Design System), Fritzing |
 | 🌐 IoT & Embedded Systems | ESP32, Blynk, Firebase Realtime Database, Sensors Integration |
-| 📊 Data & Analytics | Microsoft Excel |
+| 📊 Data & Analytics | Microsoft Excel, CSV Processing|
 | 🧰 Engineering Tools | Git, GitHub, Microsoft Office |
 
 ---
