@@ -64,6 +64,20 @@ Here are some ideas to get you started:
 | 🧰 Engineering Tools | Git, GitHub, Microsoft Office |
 
 ---
+## 🏆 Certifications & Achievements
+
+### 🎖 Top 10 Finalist - Business Innovation Competition (ENTERNS UI 2025)
+- Selected as one of the Top 10 finalist teams among participants in the Enterprise Engineering Summit (ENTERNS) UI 2025 Business Innovation Competition.
+- Developed and presented an innovative business solution in a multidisciplinary team environment.
+
+### 📜 Inclusive Leadership Skills (ILS) – Universitas Gadjah Mada
+- Successfully completed the Inclusive Leadership Skills course offered through UGM eLOK.
+- Learned leadership principles, teamwork, communication, and inclusive decision-making. :contentReference[oaicite:0]{index=0}
+
+### 🇬🇧 English Proficiency Test (EPT) – LBI Universitas Indonesia
+- Achieved an EPT score of **507** in the English Proficiency Test administered by Lembaga Bahasa Internasional (LBI) Universitas Indonesia. 
+
+---
 ## 🤝 Let's Connect
 
 - 📧 Email: anindyaputri.defana@gmail.com
