@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 | 🧰 Engineering Tools | Git, GitHub, Microsoft Office |
 
 ---
-## 🏆 Certifications & Achievements
+## 🏆 Certification & Achievements
 
 ### 🎖 Top 10 Finalist - Business Innovation Competition (ENTERNS UI 2025)
 - Selected as one of the Top 10 finalist teams among participants in the Enterprise Engineering Summit (ENTERNS) UI 2025 Business Innovation Competition.
