@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - Developed an IoT-based smart water monitoring system using ESP32, ultrasonic sensors, Firebase Realtime Database, and Blynk.
 - Implemented automatic pump control based on water level thresholds.
-- Enabled real-time cloud monitoring and remote visualization.
+- Enabled real time cloud monitoring and remote visualization.
 
 ---
 ### 🌐 FTTH Alarm Monitoring and Network Analysis
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [View Repository](https://github.com/anindyadefana/Ultra-Low-Power-900MHz-LNA-Design-and-Optimization)
 
-- Designed and optimized an ultra-low-power 900 MHz IF Low Noise Amplifier (LNA) for low-power RF receiver applications.
+- Designed and optimized an ultra low power 900 MHz IF Low Noise Amplifier (LNA) for low-power RF receiver applications.
 - Applied bias optimization and inductive source degeneration techniques to improve gain, noise figure, stability, and linearity.
 - Simulated and evaluated RF performance using Keysight ADS through S-parameter, Noise Figure, and IIP3 analyses.
 
@@ -41,11 +41,12 @@ Here are some ideas to get you started:
 - Developed and optimized antenna models using CST Studio Suite, achieving directional radiation characteristics and gain up to 6.43 dBi at 26 GHz.
 
 ---
-🎥 Video Compression Artifact Analysis
+### 🎥 Video Compression Artifact Analysis
 [View Repository](https://github.com/anindyadefana/Video-Compression-Artifact-Analysis)
-* Developed an interactive video quality analysis tool using Python, OpenCV, FFmpeg, and Gradio.
-* Evaluated the impact of bitrate reduction through metadata extraction, objective quality metrics, and visual artifact inspection.
-* Built an interactive dashboard for comparing compressed videos and analyzing compression-induced distortions.
+
+- Developed an interactive video quality analysis tool using Python, OpenCV, FFmpeg, and Gradio.
+- Evaluated the impact of bitrate reduction through metadata extraction, objective quality metrics, and visual artifact inspection.
+- Built an interactive dashboard for comparing compressed videos and analyzing compression, induced distortions.
 
 ---
 ## 🛠 Technical Toolkit
