@@ -41,15 +41,25 @@ Here are some ideas to get you started:
 - Developed and optimized antenna models using CST Studio Suite, achieving directional radiation characteristics and gain up to 6.43 dBi at 26 GHz.
 
 ---
-## 🛠️ Technical Toolkit
+🎥 Video Compression Artifact Analysis
+[View Repository](https://github.com/anindyadefana/Video-Compression-Artifact-Analysis)
+* Developed an interactive video quality analysis tool using Python, OpenCV, FFmpeg, and Gradio.
+* Evaluated the impact of bitrate reduction through metadata extraction, objective quality metrics, and visual artifact inspection.
+* Built an interactive dashboard for comparing compressed videos and analyzing compression-induced distortions.
+
+---
+## 🛠 Technical Toolkit
 
 | Category | Tools & Technologies |
-|-----------|---------------------|
+|----------|---------------------|
 | 📡 Telecommunications | Antenna Design, RF Systems, Wireless Communications, MIMO Systems, IoT Networks |
 | 💻 Programming | Python, C/C++, Arduino IDE, ESP32, MATLAB |
 | 🔬 Simulation & Design | CST Studio Suite, ADS (Advanced Design System), Fritzing |
-| 🌐 IoT & Embedded Systems | ESP32, Blynk, Firebase Realtime Database, Sensors Integration |
-| 📊 Data & Analytics | Microsoft Excel, CSV Processing|
+| 🌐 IoT & Embedded Systems | ESP32, Blynk, Firebase Realtime Database, Sensor Integration |
+| 📊 Data & Analytics | Microsoft Excel, CSV Processing, NumPy, Pandas |
+| 🎥 Video Processing | OpenCV, FFmpeg |
+| 🖥️ Web Interface | Gradio |
+| ☁️ Cloud Platforms | Google Colab |
 | 🧰 Engineering Tools | Git, GitHub, Microsoft Office |
 
 ---
